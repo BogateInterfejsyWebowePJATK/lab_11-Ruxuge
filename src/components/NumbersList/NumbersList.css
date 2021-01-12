@@ -1,0 +1,16 @@
+.numbers-list-component {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.numbers-list {
+    width: 50vh;
+    margin-top: 30%;
+    list-style-type: disc;
+}
+
+.numbers-list-font {
+    font-size: 1.4rem;
+}

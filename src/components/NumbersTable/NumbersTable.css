@@ -1,0 +1,14 @@
+.table {
+    width: 50vw;
+    margin-top: 10%;
+    border: 2px solid #2137;
+    border-collapse: collapse;
+}
+
+.table tr {
+    border-bottom: 2px solid #2137;
+}
+
+.table td {
+    border-right: 2px solid #2137;
+}
